@@ -1,4 +1,4 @@
-# Artificial_Intelligence_Spring_2022
+# Artificial Intelligence in Spring 2022
 Both the Machine Learning and Machine Vision projects from KSU Spring 2022.
 
 This includes just the code and not the videos or data.
